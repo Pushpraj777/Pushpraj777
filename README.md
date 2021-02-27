@@ -13,6 +13,5 @@ Here are a few things I've picked up along my learning journey.
 📟 Spring Boot | Spring MVC | Hibernate | Mockito<br>
 📫 Get in touch<br>
 LinkedIn - Pushpraj Mandloi<br>
-Twitter - @pushpraj03070609<br>
 Reddit - pushpraj777<br>
 or give some ♥ on mail .
