@@ -1,5 +1,5 @@
 
-Hi, I am Pushpraj Mandloi 👨‍💻<br>
+Hi, I am Pushpraj Mandloi💻<br>
 I am a Java Developer. I am passionate about technologies and love to learn new things.
 
 🔭 I’m currently looking for new opportunities .
@@ -18,4 +18,3 @@ AWS | Docker |
 📫 Get in touch<br>
 LinkedIn - Pushpraj Mandloi<br>
 Reddit - pushpraj777<br>
-or give some ♥ on mail .
